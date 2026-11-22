@@ -7,3 +7,9 @@ You need to get the binary from the .RPM packages on ibms website, I used `app-a
 Service file for https://github.com/tr1xem/AWCC
 
 tested on ~amd64 Alienware M15 R6
+
+# auto-tarch.sh
+automated tar archiver, for archiving floppies or CDs
+
+# nya-je-updater.sh
+an updater for (nya.je)[https://nya.je/] DDNS
