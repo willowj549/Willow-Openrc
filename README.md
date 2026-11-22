@@ -12,4 +12,4 @@ tested on ~amd64 Alienware M15 R6
 automated tar archiver, for archiving floppies or CDs
 
 # nya-je-updater.sh
-an updater for (nya.je)[https://nya.je/] DDNS
+an updater for [nya.je](https://nya.je/) DDNS
